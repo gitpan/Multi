@@ -1,0 +1,19 @@
+This is the README file for Multi (v 1.00), a simple module to handle
+printing to multiple (output) filehandles.
+
+Requires: FileHandle module.
+
+Installation:  You should know the routine by now...
+	perl Makefile.PL
+	make test
+	make install
+
+If for some reason MakeMaker is broken or you have a personal problem with
+the make command (seek help), you can just copy Multi.pm into your perl
+site directory and everything should be okay.
+
+Author: Nem W Schlecht (nem@plains.nodak.edu)
+
+Multi.pm - Copyright (c) 1996 by Nem W Schlecht.  All rights reserved.
+This is free software; you can distribute it and/or modify it under the
+same terms as Perl itself.
